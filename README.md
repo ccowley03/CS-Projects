@@ -8,9 +8,7 @@
   <p align="center">
     I am currently a second year student at the University Of Nottingham.
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://ccowley03.github.io/#contact">Report bug</a>
   </p>
 </p>
 

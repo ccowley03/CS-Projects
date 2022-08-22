@@ -42,8 +42,8 @@ Current Projects:
     │   ├── client.py
     │   └── server.py
     └── Password Cracker/
-        ├── 
-        └── file4
+        ├── ZipCracker.py
+        └── Test.zip
 ```
 
 ## Project Creators

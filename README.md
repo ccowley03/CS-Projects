@@ -6,7 +6,7 @@
   <h3 align="center">Conor Cowley</h3>
 
   <p align="center">
-    Short description
+    I am currently a second year student at the University Of Nottingham.
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
@@ -39,10 +39,10 @@ Current Projects:
 ```text
  Current Directory/
     ├── Messaging App (Sockets)/
-    │   ├── file1
-    │   └── file2
+    │   ├── client.py
+    │   └── server.py
     └── Password Cracker/
-        ├── file3
+        ├── 
         └── file4
 ```
 

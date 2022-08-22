@@ -18,55 +18,36 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Status](#status)
 - [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- [Creators](#project-creators)
 
 
 ## Quick start
+All other projects are found here
 
-Some text
+Current Projects
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Messaging App (Sockets)
+- Password Cracker
 
-## Status
 
-Here goes all the budgets
 
 ## What's included
 
-Some text
+Current Projects:
 
 ```text
-folder1/
-└── folder2/
-    ├── folder3/
+ Current Directory/
+    ├── Messaging App (Sockets)/
     │   ├── file1
     │   └── file2
-    └── folder4/
+    └── Password Cracker/
         ├── file3
         └── file4
 ```
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
 
 ## Project Creators
 
 **Conor Cowley**
 
 - <https://github.com/ccowley03>
-
-
-## Copyright and license
-
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy :metal:
